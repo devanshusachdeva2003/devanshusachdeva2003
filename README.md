@@ -13,10 +13,42 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devanshusachdeva2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devanshusachdeva2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📦 Projects
+
+### 🌐 Blog Website
+
+🔗 https://www.devanshusachdeva.me/
+
+A full-stack blogging platform built with the MERN stack, featuring secure authentication, content management, and cloud-based media storage.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Authentication
+
+**Key Features:**
+
+* Secure JWT-based authentication
+* RESTful APIs
+* Cloudinary image upload & management
+* Drag-and-drop file uploads
+* Responsive UI/UX
 
 ---
-[![](https://komarev.com/ghpvc/?username=devanshusachdeva2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎥 MeetX
+
+🔗 https://meetx-ds.vercel.app
+
+A modern video meeting and collaboration platform that enables users to create and join real-time meetings with a seamless experience.
+
+**Tech Stack:** React, Tailwind CSS, LiveKit, MongoDB, APIs
+
+**Key Features:**
+
+* Real-time video conferencing
+* Meeting room creation and management
+* Secure user authentication
+* Responsive and modern interface
+* Scalable backend integration
+
+
+
+
